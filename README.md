@@ -1,8 +1,8 @@
 
 <div align="center">
 
-# PyCash: a general Python package for money-pulation
-**A minimal package to deal with money**
+# PyCash
+**A general Python package for money-pulation**
 
 *Working with money has never been so easy!*
 
